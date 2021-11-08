@@ -1,0 +1,19 @@
+{
+  "name": "uideepdive",
+  "version": "1.0.0",
+  "description": "coursera course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garyleefight/UIDeepDive.git"
+  },
+  "author": "Gary Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garyleefight/UIDeepDive/issues"
+  },
+  "homepage": "https://github.com/garyleefight/UIDeepDive#readme"
+}
