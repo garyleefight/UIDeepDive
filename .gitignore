@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+#customize
+*/**/.DS_Store
+pnpm-lock.yaml
